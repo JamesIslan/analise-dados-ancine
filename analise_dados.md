@@ -1,7 +1,3 @@
-https://www.filmeb.com.br/database2/database20anos/database20anos_index.php
-https://www.gov.br/ancine/pt-br/oca/paineis-interativos-1
-https://www.gov.br/ancine/pt-br/acesso-a-informacao/perguntas-frequentes1/registro-registro-de-obras/o-que-significa-segmento-de-mercado-audiovisual
-
 Ideias
 - CPBs (filmes) emitidos por cada estado do Brasil
 - CPBs emitidos por ano
