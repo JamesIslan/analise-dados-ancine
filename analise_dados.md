@@ -1,4 +1,4 @@
-Ideias
+Análise unitária
 - CPBs (filmes) emitidos por cada estado do Brasil
 - CPBs emitidos por ano
 - CPBs emitidos no último ano
@@ -8,3 +8,16 @@ Ideias
 - CPBs emitidos por segmento inicial
 - CPBs emitidos por fonte de financiamento
     - FSA, Leis de Incentivo/ANCINE
+
+Outras análises
+- Comparação entre renda obtida com obras nacionais e com obras estrangeiras
+- Comparação entre números de titulos nacionais e estrangeiros exibidos
+- Comparação entre número de títulos nacionais e estrangeiros lançados
+- Comparação de interesse (público / população) em filmes nacionais e estrangeiros por estado no Brasil
+- Análise da distribuição de filmes nacionais por horário
+
+- Análise de interesse por distribuição de filmes nacionais por exibidora
+    - Proporcionalmente (capacidade das salas)
+    - Limitado a n exibidoras
+
+* Pesquisar diferença entre distribuidora e exibidora

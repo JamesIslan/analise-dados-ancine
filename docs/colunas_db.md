@@ -16,9 +16,10 @@
     - Data exibição
     - Título original
     - Título brasil
-    - CPB_ROE (?)
+    Apagar uma das colunas
+    - CPB_ROE
     - País obra
-    - Registro sala
+    - Registro sala (?)
     - Nome sala
     - Público
     - Registro grupo exibidor (?)
@@ -27,12 +28,12 @@
     - Município sala complexo
     - UF Sala complexo
     - Razão social distribuidora
-    - CNPJ distribuidora
+    - CNPJ distribuidora (x)
     - NR protocolo envio (?)
     - Data hora envio protocolo (?)
 
 - bilheteria-diaria-obras-por-exibidoras-*
     - (maioria das colunas presentes na anterior)
     - Sessão
-    - Áudio
-    - Legenda
+    - Áudio (x)
+    - Legenda (x)
