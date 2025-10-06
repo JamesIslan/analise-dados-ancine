@@ -1,0 +1,38 @@
+- listagem-de-distribuidoras-2009-a-2022
+    - Ano de exibição
+    - Distribuidora
+    - Número de registros Ancine
+    - Origem da empresa distribuidora
+    - Público
+    - Público filmes brasileiros
+    - Renda (R$)
+    - Renda filmes brasileiros
+    - Títulos exibidos
+    - Títulos brasileiros exibidos
+    - Títulos lançados
+    - Títulos brasileiros lançados
+
+- bilheteria-diaria-obras-por-distribuidoras-*
+    - Data exibição
+    - Título original
+    - Título brasil
+    - CPB_ROE (?)
+    - País obra
+    - Registro sala
+    - Nome sala
+    - Público
+    - Registro grupo exibidor (?)
+    - Registro exibidor (?)
+    - Registro complexo (?)
+    - Município sala complexo
+    - UF Sala complexo
+    - Razão social distribuidora
+    - CNPJ distribuidora
+    - NR protocolo envio (?)
+    - Data hora envio protocolo (?)
+
+- bilheteria-diaria-obras-por-exibidoras-*
+    - (maioria das colunas presentes na anterior)
+    - Sessão
+    - Áudio
+    - Legenda
