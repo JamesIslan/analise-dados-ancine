@@ -19,5 +19,6 @@ Outras análises
 - Análise de interesse por distribuição de filmes nacionais por exibidora
     - Proporcionalmente (capacidade das salas)
     - Limitado a n exibidoras
+- Impacto de obras nacionais populares no interesse por cinema brasileiro
 
 * Pesquisar diferença entre distribuidora e exibidora
