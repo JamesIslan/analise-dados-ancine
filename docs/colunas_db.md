@@ -19,18 +19,18 @@
     Apagar uma das colunas
     - CPB_ROE
     - País obra
-    - Registro sala (?)
+    - Registro sala (Removido)
     - Nome sala
     - Público
-    - Registro grupo exibidor (?)
-    - Registro exibidor (?)
-    - Registro complexo (?)
+    - Registro grupo exibidor (Removido)
+    - Registro exibidor (Removido)
+    - Registro complexo (Removido)
     - Município sala complexo
     - UF Sala complexo
     - Razão social distribuidora
-    - CNPJ distribuidora (x)
-    - NR protocolo envio (?)
-    - Data hora envio protocolo (?)
+    - CNPJ distribuidora (Removido)
+    - NR protocolo envio (Removido)
+    - Data hora envio protocolo (Removido)
 
 - bilheteria-diaria-obras-por-exibidoras-*
     - (maioria das colunas presentes na anterior)
