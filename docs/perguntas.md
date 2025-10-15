@@ -1,0 +1,1 @@
+1. Qual o intervalo interquartil que deveríamos usar para a coluna `duracao_total_minutos`? Tanto utilizando uma margem de 0.003% quanto de 0.005%, o Boxplot dessa coluna ainda exibe valores de outliers para durações maiores que 120 minutos. Deveríamos esticar ainda mais essa porcentagem para eliminar completamente os outliers?
