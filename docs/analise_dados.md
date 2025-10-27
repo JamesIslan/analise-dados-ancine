@@ -15,6 +15,7 @@ Outras análises
 - Comparação entre número de títulos nacionais e estrangeiros lançados
 - Comparação de interesse (público / população) em filmes nacionais e estrangeiros por estado no Brasil
 - Análise da distribuição de filmes nacionais por horário
+- Análise do aumento de produções de longa metragem ao longo dos anos
 
 - Análise de interesse por distribuição de filmes nacionais por exibidora
     - Proporcionalmente (capacidade das salas)
