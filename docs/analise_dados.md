@@ -16,6 +16,7 @@ Outras análises
 - Comparação de interesse (público / população) em filmes nacionais e estrangeiros por estado no Brasil
 - Análise da distribuição de filmes nacionais por horário
 - Análise do aumento de produções de longa metragem ao longo dos anos
+- Relação entre quantidade de assentos e público de sessões de filmes nacionais e estrangeiros
 
 - Análise de interesse por distribuição de filmes nacionais por exibidora
     - Proporcionalmente (capacidade das salas)
