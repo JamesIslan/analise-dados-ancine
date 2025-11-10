@@ -15,10 +15,10 @@ Outras análises
 - Comparação entre número de títulos nacionais e estrangeiros lançados
 - Comparação de interesse (público / população) em filmes nacionais e estrangeiros por estado no Brasil
 - Análise da distribuição de filmes nacionais por horário
-- Análise do aumento de produções de longa metragem ao longo dos anos
-- Relação entre quantidade de assentos e público de sessões de filmes nacionais e estrangeiros
+- Análise do aumento de produções de longa metragem ao longo dos anos (FEITO)
+- Relação entre quantidade de assentos e público de sessões de filmes nacionais e estrangeiros (FEITO)
 
-- Análise de interesse por distribuição de filmes nacionais por exibidora
+- Análise de interesse por distribuição de filmes nacionais por exibidora (FEITO)
     - Proporcionalmente (capacidade das salas)
     - Limitado a n exibidoras
 - Impacto de obras nacionais populares no interesse por cinema brasileiro
