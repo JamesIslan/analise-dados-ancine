@@ -1,0 +1,25 @@
+- Adicionar coluna do dia da semana em que a sessão aconteceu (com base na data de exibição)
+- https://dados.gov.br/dados/conjuntos-dados/implementacao-e-execucao-da-lei-paulo-gustavo-lpg1
+
+Trabalho Unidade 3
+
+- Classificar filmes com base nos registros de sessões
+    - Agrupar conforme tamanho da produção: Grandes produções, médias produções e produções independentes, por exemplo
+
+- Dados interessantes que podem ser utilizados
+    - Distribuição orçamentária da lei paulo gustavo por estado (extratobancariolpg.xlsx)
+    - Arquivo relatoriogestaolpg.xlsx é inútil
+
+- Classificação filme
+    - Estado
+    - Quantidade de sessões
+    - Tipo da obra
+    - Categoria de duração
+    - Classificação
+    - Público total
+    - Distribuidora
+    - Quantidade de tempo que ficou em cartaz
+    - Renda total
+    - Possuiu fomento indireto por meio de leis de incentivo federais? [OK]
+    - Coprodução estrangeira? [OK]
+    - Possui investimento do FSA? [OK]
