@@ -13,7 +13,7 @@ Trabalho Unidade 3
 - Classificação filme
     - Estado
     - Quantidade de sessões [OK]
-    - Tipo da obra
+    - Tipo da obra [OK]
     - Categoria de duração [OK]
     - Classificação
     - Público total [OK]
