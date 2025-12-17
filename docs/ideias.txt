@@ -12,14 +12,13 @@ Trabalho Unidade 3
 
 - Classificação filme
     - Estado
-    - Quantidade de sessões
-    - Tipo da obra
-    - Categoria de duração
+    - Quantidade de sessões [OK]
+    - Tipo da obra [OK]
+    - Categoria de duração [OK]
     - Classificação
-    - Público total
-    - Distribuidora
-    - Quantidade de tempo que ficou em cartaz
-    - Renda total
-    - Possuiu fomento indireto por meio de leis de incentivo federais?
-    - Coprodução estrangeira?
-    - Possui investimento do FSA?
+    - Público total [OK]
+    - Quantidade de tempo que ficou em cartaz [OK]
+    - Renda total [OK]
+    - Possuiu fomento indireto por meio de leis de incentivo federais? [OK]
+    - Coprodução estrangeira? [OK]
+    - Possui investimento do FSA? [OK]
